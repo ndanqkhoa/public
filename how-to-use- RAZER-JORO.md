@@ -1,4 +1,5 @@
 # Onboard Usage
+
 Press and hold
 - Fn + Esc: Activate Power Saving Mode
 - Fn + Tab: Switch between Windows and Mac layout
